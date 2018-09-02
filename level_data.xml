@@ -1,0 +1,23 @@
+<LevelData>
+	<Event Time="100">
+		<Enemy Type="Dropper" x="0" y="60" />
+	</Event>
+	<Event Time="120">
+		<Enemy Type="Diver" x="450" y="10" z="-90" />
+	</Event>
+	<Event Time="150">
+		<Enemy Type="Sinus" x="100" y="-40" />
+		<Enemy Type="Sinus" x="300" y="-40" />
+	</Event>
+	<Event Time="250">
+		<Enemy Type="Sinus" x="200" y="-40" />
+	</Event>
+	<Event Time="500">
+		<Enemy Type="Simple" x="50" y="-40" />
+		<Enemy Type="Simple" x="100" y="-40" />
+		<Enemy Type="Simple" x="150" y="-40" />
+	    <Enemy Type="Simple" x="200" y="-40" />	
+	</Event>
+	<Event Time="1000">Placeholder</Event>
+	<END /> 
+</LevelData>
